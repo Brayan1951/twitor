@@ -1,4 +1,4 @@
-var ulr = window.location.href;
+var url = window.location.href;
 var swLoca = "/twitor/sw.js";
 
 if (navigator.serviceWorker) {
